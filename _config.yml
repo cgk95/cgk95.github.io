@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kernel360 Tech Blog.
+title: Kernel360 Tech Blog
 email: kernel360@domain.com
 author: Kernel360
 
