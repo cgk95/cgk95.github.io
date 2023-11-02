@@ -93,16 +93,8 @@ banner_background -%}
 
       <div class="page-banner-default">
         <h1 class="page-banner-heading">
-          {% if heading contains '<img' %} {{ heading | raw }} {% else %}
-          <img
-            src="/assets/images/banners/kernel360-white.png"
-            alt="Kernel360 Crew Tech Blog"
-          />
-          {% endif %}
+          {{ heading | default: page.title | escape }}
         </h1>
-        <!-- <h1 class="page-banner-heading">
-              {{ heading | default: page.title | escape }}
-            </h1> -->
         <h2 class="page-banner-subheading">
           {{ subheading | default: page.subtitle | escape }}
         </h2>
