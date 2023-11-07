@@ -117,21 +117,18 @@ _이탤릭체_
 
 ### 토글...!!
 
-<details>
+<details open="">
 <summary>토글</summary>
-<div markdown="1">
 된건가?
 </div>
 </details>
 
-<details>
+<details open="">
 <summary>토글 겹쳐넣기</summary>
-<div markdown="1">
 안녕하십니까
 
-<details>
+<details open="">
 <summary>안쪽 토글</summary>
-<div markdown="1">
 되면 레전ㄷ,
 </div>
 </details>
