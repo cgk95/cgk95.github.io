@@ -33,7 +33,13 @@ _이탤릭체_
 **볼드**
 **볼드**
 ~~취소선~~
+
+<html>
+<body>
 <U>밑줄</U>
+<kbd>hello</kbd>
+</body>
+</html>
 
 ---
 
@@ -43,7 +49,7 @@ _이탤릭체_
 
 ### 이미지 가능
 
-[testfile](https://kernel360.github.io/blog/assets/images/banners/kernel-title-1.png)
+![testfile](https://kernel360.github.io/blog/assets/images/banners/kernel-title-1.png)
 
 ---
 
@@ -81,6 +87,8 @@ _이탤릭체_
 
 ### 글자색 여기까지 가능
 
+<html>
+<body>
 <span style="color:red"> 글씨색 변경 </span>
 <span style="color:yellow"> 글씨색 변경 </span>
 <span style="color:blue"> 글씨색 변경 </span>
@@ -92,12 +100,20 @@ _이탤릭체_
 <span style="color:blueviolet"> 글씨색 변경 </span>
 <span style="color:gray"> 글씨색 변경 </span>
 <span style="color:indigo"> 글씨색 변경 </span>
+</body>
+</html>
 
 ---
 
 ### 형광펜 여기까지 가능
 
+<html>
+<body>
 <span style="background-color: #f6f8fa">회색형광펜</span>
+<mark>hello</mark>
+</body>
+</html>
+
 색상값 넣으면 되는거라 다른 색도 가능합니당
 
 ---
@@ -113,10 +129,14 @@ _이탤릭체_
 
 ![](https://www.youtube.com/watch?v=fil0RhinCv0)
 
+\{\% include 11-08.html id="fil0RhinCv0" \%\}
+
 ---
 
 ### 토글...!!
 
+<html>
+<body>
 <details open="">
 <summary>토글</summary>
 된건가?
@@ -135,3 +155,5 @@ _이탤릭체_
 
 </div>
 </details>
+</body>
+</html>
