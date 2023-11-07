@@ -6,17 +6,7 @@ categories: 자기소개
 tags: [me]
 ---
 
----
-
-layout: post
-title: 마크다운 어디까지 쓸 수 있나?
-subtitle: ^\_^
-categories: test
-tags: [test]
-
----
-
-# 글자 크기 6단계 정도 있어요.
+# 제목 글자 크기 6단계 정도 있어요.
 
 # h1
 
@@ -44,18 +34,14 @@ _이탤릭체_
 **볼드**
 ~~취소선~~
 
-<html>
-<body>
 <U>밑줄</U>
 <kbd>hello</kbd>
-</body>
-</html>
 
 ---
 
 ### 링크 가능
 
-## [네이버](https://www.naver.com)
+[네이버](https://www.naver.com)
 
 ### 이미지 가능
 
@@ -130,8 +116,8 @@ _이탤릭체_
 
 ### 이모지 가능이요!
 
+🍏🍎🍐🍊🍋🍌🍉🍇🍓<br>
 🍏🍎🍐🍊🍋🍌🍉🍇🍓
-####🍏🍎🍐🍊🍋🍌🍉🍇🍓
 
 ---
 
@@ -145,12 +131,9 @@ _이탤릭체_
 
 ### 토글...!!
 
-<html>
-<body>
 <details open="">
 <summary>토글</summary>
 된건가?
-</div>
 </details>
 
 <details open="">
@@ -160,10 +143,6 @@ _이탤릭체_
 <details open="">
 <summary>안쪽 토글</summary>
 되면 레전ㄷ,
-</div>
 </details>
 
-</div>
 </details>
-</body>
-</html>
