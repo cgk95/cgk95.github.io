@@ -117,7 +117,7 @@ _이탤릭체_
 
 {% include youtubePlayer.html id="fil0RhinCv0" %}
 
-<iframe width="522" height="250" src="https://www.youtube.com/embed/fil0RhinCv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="522" height="250" src="https://www.youtube.com/embed/fil0RhinCv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ---
 
@@ -130,11 +130,12 @@ _이탤릭체_
 
 <details open="">
 <summary>토글 겹쳐넣기</summary>
-&nbsp;안녕하십니까
+&nbsp;&nbsp;&nbsp;&nbsp;안녕하십니까
 
-<details open="">
+&nbsp;&nbsp;&nbsp;&nbsp;<details open="">
+
 <summary>안쪽 토글</summary>
-&nbsp;&nbsp;되면 레전ㄷ,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;되면 레전ㄷ,
 </details>
 
 </details>
