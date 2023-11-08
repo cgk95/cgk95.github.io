@@ -115,9 +115,11 @@ _이탤릭체_
 
 ### 동영상...
 
-![](https://www.youtube.com/watch?v=fil0RhinCv0)
+![video](https://www.youtube.com/watch?v=fil0RhinCv0)
 
-\{% include 11-08.html id="fil0RhinCv0" %\}
+\{/\% include 11-08.html id="fil0RhinCv0" /\%\}
+
+<iframe width="1044" height="587" src="https://www.youtube.com/watch?v=fil0RhinCv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
