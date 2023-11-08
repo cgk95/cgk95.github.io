@@ -115,11 +115,9 @@ _이탤릭체_
 
 ### 동영상...
 
-![video](https://www.youtube.com/watch?v=fil0RhinCv0)
-
 {% include youtubePlayer.html id="fil0RhinCv0" %}
 
-<iframe width="1044" height="587" src="https://www.youtube.com/embed/fil0RhinCv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="522" height="250" src="https://www.youtube.com/embed/fil0RhinCv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -132,11 +130,11 @@ _이탤릭체_
 
 <details open="">
 <summary>토글 겹쳐넣기</summary>
-안녕하십니까
+&nbsp;안녕하십니까
 
 <details open="">
 <summary>안쪽 토글</summary>
-되면 레전ㄷ,
+&nbsp;&nbsp;되면 레전ㄷ,
 </details>
 
 </details>
