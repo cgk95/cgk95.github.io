@@ -83,32 +83,24 @@ _이탤릭체_
 
 ### 글자색 여기까지 가능
 
-<html>
-<body>
-<span style="color:red"> 글씨색 변경 </span>
-<span style="color:yellow"> 글씨색 변경 </span>
-<span style="color:blue"> 글씨색 변경 </span>
-<span style="color:brown"> 글씨색 변경 </span>
-<span style="color:orange"> 글씨색 변경 </span>
-<span style="color:green"> 글씨색 변경 </span>
-<span style="color:violet"> 글씨색 변경 </span>
-<span style="color:yellowgreen"> 글씨색 변경 </span>
-<span style="color:blueviolet"> 글씨색 변경 </span>
-<span style="color:gray"> 글씨색 변경 </span>
-<span style="color:indigo"> 글씨색 변경 </span>
-</body>
-</html>
+<span style="color:red"> 글씨색 변경 </span><br>
+<span style="color:yellow"> 글씨색 변경 </span><br>
+<span style="color:blue"> 글씨색 변경 </span><br>
+<span style="color:brown"> 글씨색 변경 </span><br>
+<span style="color:orange"> 글씨색 변경 </span><br>
+<span style="color:green"> 글씨색 변경 </span><br>
+<span style="color:violet"> 글씨색 변경 </span><br>
+<span style="color:yellowgreen"> 글씨색 변경 </span><br>
+<span style="color:blueviolet"> 글씨색 변경 </span><br>
+<span style="color:gray"> 글씨색 변경 </span><br>
+<span style="color:indigo"> 글씨색 변경 </span><br>
 
 ---
 
 ### 형광펜 여기까지 가능
 
-<html>
-<body>
 <span style="background-color: #f6f8fa">회색형광펜</span>
 <mark>hello</mark>
-</body>
-</html>
 
 색상값 넣으면 되는거라 다른 색도 가능합니당
 
@@ -125,7 +117,7 @@ _이탤릭체_
 
 ![](https://www.youtube.com/watch?v=fil0RhinCv0)
 
-\{\% include 11-08.html id="fil0RhinCv0" \%\}
+\{% include 11-08.html id="fil0RhinCv0" %\}
 
 ---
 
