@@ -2,7 +2,7 @@
 layout: post
 title: 마크다운 test
 subtitle: 안녕하시렵니까
-categories: 자기소개
+# categories: 자기소개
 tags: [me]
 ---
 
