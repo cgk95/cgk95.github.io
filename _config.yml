@@ -51,7 +51,7 @@ copyright: "published Work (cleft) 2023-{currentYear} {author}"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
-favicon: "https://cgk95.github.io/assets/images/banners/kernel-favicon.png" # the favicon for your site
+favicon: "https://cgk95.github.io/assets/images/banners/favicon.png" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
