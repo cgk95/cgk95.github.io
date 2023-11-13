@@ -1,4 +1,4 @@
-# Kernel360
+# <span style="color:#6BD600">What we do</span>
 
 <div style = "float: right;">
     <img src="https://cgk95.github.io/assets/images/about/4.png" width="350px" alt="sample image">
@@ -17,15 +17,15 @@ Kernel360에서는 회사와 같은 팀 그리고 현장에서와 같은 수준�
 
 ## **만약 어디에선가 <span style="color:#448361">{한계}</span>를 느꼈다면, <br><span style="color:#448361">{핵심}</span>을 이해하며 무한히 성장할 수 있는 Kernel360과 함께하세요.**
 
-<!-- ![세계관 그래픽.png](https://cgk95.github.io/assets/images/about/4.png) -->
-
+<br>
+<br>
 ---
 
 <br>
 <br>
-{% include youtubePlayer.html id="pn7amXLAlGQ" %}
 
-<!-- <iframe width="500" height="350" src="https://www.youtube.com/embed/pn7amXLAlGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+{% include youtubePlayer.html id="rrl_V_9EDtI" %}
+
 <br>
 
 ## **가르치지 않습니다. <br>스스로 성장할 수 있는 <span style="color:#448361">{환경}</span>을 제공합니다.**
@@ -42,12 +42,17 @@ Kernel360에서는 회사와 같은 팀 그리고 현장에서와 같은 수준�
 
 우리는 주어진 문제만 해결하지 않을 겁니다.회사에 들어가면 문제점을 찾고 해결방법을 고민해야할 일이 많습니다.그리고 이는 어떤 학교나 학원에서도 가르쳐주지 않습니다.그렇기에 우리는 회사와 유사한 환경에서 개발
 사이클을 체계적으로 경험하며 핵심을 파악하고 넓은 시야를 갖는 법을 배웁니다.
+<br>
+<br>
 
 ---
+
+<br>
+<br>
 
 # **Kernel360 Tech Blog의 Crew를 소개합니다.**
 
 |                                                                                                |                                                                                                |                                                                                                |                                                                                                |                                                                                                |
 | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- |
 | <img src="https://cgk95.github.io/assets/images/about/1.png" width="200px" alt="sample image"> | <img src="https://cgk95.github.io/assets/images/about/2.png" width="200px" alt="sample image"> | <img src="https://cgk95.github.io/assets/images/about/3.png" width="200px" alt="sample image"> | <img src="https://cgk95.github.io/assets/images/about/5.png" width="200px" alt="sample image"> | <img src="https://cgk95.github.io/assets/images/about/6.png" width="200px" alt="sample image"> |
-| - 소속 셀: <br> - 관심 분야: <br> - 기술블로그(링크 삽입) 안녕하세요                           | - 소속 셀: <br> - 관심 분야: <br> - 기술블로그(링크 삽입) 안녕하세요                           | - 소속 셀: <br> - 관심 분야: <br> - 기술블로그(링크 삽입) 안녕하세요                           |
+| - 소속 셀: <br> - 관심 분야: <br> - 기술블로그(링크 삽입) <br> 안녕하세요                      | - 소속 셀: <br> - 관심 분야: <br> - 기술블로그(링크 삽입) <br> 안녕하세요                      | - 소속 셀: <br> - 관심 분야: <br> - 기술블로그(링크 삽입) <br>안녕하세요                       | - 소속 셀: <br> - 관심 분야: <br> - 기술블로그(링크 삽입) <br>안녕하세요                       | - 소속 셀: <br> - 관심 분야: <br> - 기술블로그(링크 삽입) <br>안녕하세요                       |
