@@ -1,6 +1,10 @@
 # Kernel360
 
-### **Kernel360은 {핵심}을 고민합니다.**
+<div >
+    <img src="https://cgk95.github.io/assets/images/about/4.png" width="400px" alt="sample image">
+</div>
+
+### **Kernel360은 <span style="color:#448361">{핵심}</span>을 고민합니다.**
 
 우리의 목표는 단순히 '취업'이 아닙니다. 많은 개발자 양성 교육에서 취업만을 목표로 하며 '핵심'을 놓치는 경우가 있습니다. 그렇게 현장에 배출된 개발자들은 대부분 금방 한계에 직면하게 됩니다. 왜냐하면 개발자라는
 직업은 이 지구에서 가장 변화가 빠르고 많은 학습이 필요하기 때문이죠.
@@ -14,18 +18,13 @@ Kernel360에서는 회사와 같은 팀 그리고 현장에서와 같은 수준�
 
 ### \*\*만약 어디에선가 {한계}를 느꼈다면, <br>{핵심}을 이해하며 무한히 성장할 수 있는 Kernel360과 함께하세요.\*\*
 
-<div style="float: right;">
-    <img src="https://cgk95.github.io/assets/images/about/4.png" width="200px" alt="sample image">
-</div>
 <!-- ![세계관 그래픽.png](https://cgk95.github.io/assets/images/about/4.png) -->
 
 ---
 
-<!-- {% include youtubePlayer.html id="pn7amXLAlGQ" %} -->
+{% include youtubePlayer.html id="pn7amXLAlGQ" %}
 
-<iframe width="250" height="200" src="https://www.youtube.com/embed/pn7amXLAlGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- [https://www.youtube.com/watch?v=pn7amXLAlGQ](https://www.youtube.com/watch?v=pn7amXLAlGQ) -->
+<!-- <iframe width="250" height="200" src="https://www.youtube.com/embed/pn7amXLAlGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ### \*\*가르치지 않습니다. <br>스스로 성장할 수 있는 {환경}을 제공합니다.\*\*
 
@@ -46,7 +45,7 @@ Kernel360에서는 회사와 같은 팀 그리고 현장에서와 같은 수준�
 
 # **Kernel360 Tech Blog의 Crew를 소개합니다.**
 
-| right                                                                                          | center                                                                                         | left                                                                                           |
-| :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- |
-| <img src="https://cgk95.github.io/assets/images/about/1.png" width="200px" alt="sample image"> | <img src="https://cgk95.github.io/assets/images/about/6.png" width="200px" alt="sample image"> | <img src="https://cgk95.github.io/assets/images/about/3.png" width="200px" alt="sample image"> |
+|                                                                                                |                                                                                                |                                                                                                |                                                                                                |                                                                                                |
+| :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- |
+| <img src="https://cgk95.github.io/assets/images/about/1.png" width="200px" alt="sample image"> | <img src="https://cgk95.github.io/assets/images/about/2.png" width="200px" alt="sample image"> | <img src="https://cgk95.github.io/assets/images/about/3.png" width="200px" alt="sample image"> | <img src="https://cgk95.github.io/assets/images/about/5.png" width="200px" alt="sample image"> | <img src="https://cgk95.github.io/assets/images/about/6.png" width="200px" alt="sample image"> |
 | - 소속 셀: <br> - 관심 분야: <br> - 기술블로그(링크 삽입) 안녕하세요                           | - 소속 셀: <br> - 관심 분야: <br> - 기술블로그(링크 삽입) 안녕하세요                           | - 소속 셀: <br> - 관심 분야: <br> - 기술블로그(링크 삽입) 안녕하세요                           |
