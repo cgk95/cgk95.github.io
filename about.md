@@ -6,12 +6,11 @@
 
 ## **Kernel360은 <span style="color:#448361">{핵심}</span>을 고민합니다.**
 
-우리의 목표는 단순히 '취업'이 아닙니다. 많은 개발자 양성 교육에서 취업만을 목표로 하며 '핵심'을 놓치는 경우가 있습니다. 그렇게 현장에 배출된 개발자들은 대부분 금방 한계에 직면하게 됩니다. 왜냐하면 개발자라는
-직업은 이 지구에서 가장 변화가 빠르고 많은 학습이 필요하기 때문이죠.
+우리의 목표는 단순히 '취업'이 아닙니다. 많은 개발자 양성 교육에서 취업만을 목표로 하며 <br>'핵심'을 놓치는 경우가 있습니다. 그렇게 현장에 배출된 개발자들은 대부분 금방 한계에 직면하게 됩니다. <br> 왜냐하면 개발자라는 직업은 이 지구에서 가장 변화가 빠르고 많은 학습이 필요하기 때문이죠.
 
 ## **당신의 <span style="color:#448361">{무한한 잠재력을 표출}</span>할 수 있도록.**
 
-일을 즐기면서 한계없이 성장하는 개발자가 되기 위해서는 현재 인기있는 언어나 프레임워크를 아는 것보다 어떤 언어를 사용하든 빠르게 적응할 수 있는 개발의 근본 즉, '핵심'을 명확히 이해하는 것이 중요합니다.
+일을 즐기면서 한계없이 성장하는 개발자가 되기 위해서는 현재 인기있는 언어나 프레임워크를 <br> 아는 것보다 어떤 언어를 사용하든 빠르게 적응할 수 있는 개발의 근본 <br> 즉, '핵심'을 명확히 이해하는 것이 중요합니다.
 
 Kernel360에서는 회사와 같은 팀 그리고 현장에서와 같은 수준의 프로젝트를 통해 기획, 구현, 배포, 운영까지의 경험과 필요한 지식을 찐한 협업 환경에서 배웁니다. 그리고 모든 과정에서 명확한 방향을 잡도록
 도와줄 여러분들의 사수인 디렉터와 멘토들이 함께하죠.
@@ -22,9 +21,12 @@ Kernel360에서는 회사와 같은 팀 그리고 현장에서와 같은 수준�
 
 ---
 
-<!-- {% include youtubePlayer.html id="pn7amXLAlGQ" %} -->
+<br>
+<br>
+{% include youtubePlayer.html id="pn7amXLAlGQ" %}
 
-<iframe width="400" height="350" src="https://www.youtube.com/embed/pn7amXLAlGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="500" height="350" src="https://www.youtube.com/embed/pn7amXLAlGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<br>
 
 ## **가르치지 않습니다. <br>스스로 성장할 수 있는 <span style="color:#448361">{환경}</span>을 제공합니다.**
 
